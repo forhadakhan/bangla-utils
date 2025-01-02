@@ -1,6 +1,6 @@
 {
     "name": "bangla-utils",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "module",
     "author": "Forhad Khan <ping@forhadakhan.com>",
     "description": "A utility library for working with Bengali numbers, math, and other operations.",
