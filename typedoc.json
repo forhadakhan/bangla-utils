@@ -1,0 +1,11 @@
+{
+    "entryPoints": ["./src/index.ts"],
+    "out": "./docs",
+    "excludeExternals": true,
+    "excludePrivate": true,
+    "excludeProtected": true,
+    "hideGenerator": true,
+    "theme": "default",
+    "categorizeByGroup": true,
+    "categoryOrder": ["Date & Time", "Number", "General", "Math"]
+}
