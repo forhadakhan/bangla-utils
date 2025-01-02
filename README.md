@@ -2,7 +2,7 @@
 
 A comprehensive utility library for working with Bangla (Bengali) numbers, dates, math operations, and more.
 
-[![Documentation](https://img.shields.io/badge/docs-latest-blue)](https://forhadakhan.github.io/bangla-utils/docs/modules.html)
+[![Documentation](https://img.shields.io/badge/docs-latest-blue)](https://forhadakhan.github.io/bangla-utils)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/forhadakhan/bangla-utils/blob/main/LICENSE)
 [![npm version](https://img.shields.io/npm/v/bangla-utils)](https://www.npmjs.com/package/bangla-utils)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)](https://github.com/forhadakhan/bangla-utils/blob/main/CONTRIBUTING.md)
@@ -55,7 +55,7 @@ For detailed usage, refer to the [documentation](https://forhadakhan.github.io/b
 
 Explore the full documentation to learn about all available utilities and their usage:
 
-[📚 Documentation](https://forhadakhan.github.io/bangla-utils/docs/modules.html)
+[📚 Documentation](https://forhadakhan.github.io/bangla-utils/modules.html)
 
 ---
 
